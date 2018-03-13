@@ -24,6 +24,8 @@ ModelImporter:
     400014: pCube8
     400016: pCube9
     2100000: lambert1
+    2100002: lambert3
+    2100004: lambert2
     2300000: pCube10
     2300002: pCube11
     2300004: pCube12

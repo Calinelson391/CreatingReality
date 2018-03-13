@@ -29,6 +29,20 @@ ModelImporter:
     100042: transform5
     100044: transform6
     100046: transform7
+    100048: Drawer1NOT
+    100050: Drawer2NOT
+    100052: DRAWERL
+    100054: DRAWERR
+    100056: polySurface1
+    100058: polySurface2
+    100060: polySurface3
+    100062: polySurface4
+    100064: polySurface5
+    100066: polySurface6
+    100068: polySurface7
+    100070: TableNOT
+    100072: TABLETRUE
+    100074: transform8
     400000: Base
     400002: //RootNode
     400004: Drawer1
@@ -53,16 +67,54 @@ ModelImporter:
     400042: transform5
     400044: transform6
     400046: transform7
+    400048: Drawer1NOT
+    400050: Drawer2NOT
+    400052: DRAWERL
+    400054: DRAWERR
+    400056: polySurface1
+    400058: polySurface2
+    400060: polySurface3
+    400062: polySurface4
+    400064: polySurface5
+    400066: polySurface6
+    400068: polySurface7
+    400070: TableNOT
+    400072: TABLETRUE
+    400074: transform8
     2100000: lambert1
+    2100002: Dark
+    2100004: Base
+    2100006: lambert5
     2300000: pTorus1
     2300002: pTorus2
     2300004: Table1
+    2300006: polySurface1
+    2300008: polySurface2
+    2300010: polySurface3
+    2300012: polySurface4
+    2300014: polySurface5
+    2300016: polySurface6
+    2300018: polySurface7
     3300000: pTorus1
     3300002: pTorus2
     3300004: Table1
+    3300006: polySurface1
+    3300008: polySurface2
+    3300010: polySurface3
+    3300012: polySurface4
+    3300014: polySurface5
+    3300016: polySurface6
+    3300018: polySurface7
     4300000: Table1
     4300002: pTorus1
     4300004: pTorus2
+    4300006: polySurface3
+    4300008: polySurface4
+    4300010: polySurface6
+    4300012: polySurface5
+    4300014: polySurface2
+    4300016: polySurface7
+    4300018: polySurface1
     9500000: //RootNode
   externalObjects: {}
   materials:

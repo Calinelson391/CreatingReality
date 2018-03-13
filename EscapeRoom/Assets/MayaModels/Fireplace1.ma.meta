@@ -12,6 +12,9 @@ ModelImporter:
     400002: pCube6
     400004: pCube7
     2100000: lambert1
+    2100002: Outer
+    2100004: Stone
+    2100006: Steely
     2300000: pCube6
     2300002: pCube7
     3300000: pCube6

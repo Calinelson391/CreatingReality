@@ -24,6 +24,9 @@ ModelImporter:
     400014: pCylinder1
     400016: pSphere1
     2100000: lambert1
+    2100002: lambert2
+    2100004: lambert3
+    2100006: lambert4
     2300000: pCube1
     2300002: pCube2
     2300004: pCube3

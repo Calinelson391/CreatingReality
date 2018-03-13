@@ -18,6 +18,8 @@ ModelImporter:
     100020: pCube8
     100022: pCylinder2
     100024: pCylinder3
+    100026: pTorus1
+    100028: pTorus2
     400000: Base
     400002: Lock
     400004: //RootNode
@@ -31,25 +33,37 @@ ModelImporter:
     400020: pCube8
     400022: pCylinder2
     400024: pCylinder3
+    400026: pTorus1
+    400028: pTorus2
     2100000: lambert1
+    2100002: BaseMetal
+    2100004: Brass
+    2100006: Steely
+    2100008: lambert5
     2300000: pCube5
     2300002: pCube6
     2300004: pCube7
     2300006: pCube8
     2300008: pCylinder2
     2300010: pCylinder3
+    2300012: pTorus1
+    2300014: pTorus2
     3300000: pCube5
     3300002: pCube6
     3300004: pCube7
     3300006: pCube8
     3300008: pCylinder2
     3300010: pCylinder3
+    3300012: pTorus1
+    3300014: pTorus2
     4300000: pCube6
     4300002: pCube7
     4300004: pCylinder2
     4300006: pCube5
     4300008: pCylinder3
     4300010: pCube8
+    4300012: pTorus2
+    4300014: pTorus1
     9500000: //RootNode
   externalObjects: {}
   materials:

@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 48
+  controlID: 58
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 49
+  controlID: 59
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 50
+  controlID: 60
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -360,19 +360,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/HTC.UnityPlugin/ViveInputUtility/Scripts/Misc
+    - Assets/MayaModels
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/HTC.UnityPlugin/ViveInputUtility/Scripts/Misc
+  - Assets/MayaModels
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\CaliN\Documents\GitHub\CreatingReality\EscapeRoom
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 199}
-    m_SelectedIDs: 30400000
-    m_LastClickedID: 16432
-    m_ExpandedIDs: 00000000a43f00000a400000304000003041000024420000544200000243000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 31}
+    m_SelectedIDs: 322a0000
+    m_LastClickedID: 10802
+    m_ExpandedIDs: 0000000060290000f62900002c2a0000722b0000f02c0000362d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -400,7 +400,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a43f0000304100002442000002430000
+    m_ExpandedIDs: 0000000060290000f62900002c2a0000722b0000f02c0000362d00008e2e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -517,10 +517,10 @@ MonoBehaviour:
     height: 435
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 08e3ffff
-    m_LastClickedID: -7416
-    m_ExpandedIDs: 9068ffffb0aaffffb2aaffffb4aaffff0ae3ffffb6eaffff00000000
+    scrollPos: {x: 0, y: 30}
+    m_SelectedIDs: 8a300000
+    m_LastClickedID: 12426
+    m_ExpandedIDs: e8f0ffffeef0ffff1cf1ffff40f2ffff4af2ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -571,14 +571,14 @@ MonoBehaviour:
     height: 435
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 2101.251286615759
+  lastFramingTime: 3194.0559415136545
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.34689522, y: 4.152009, z: -1.6776431}
+    m_Target: {x: -0.7017505, y: 5.035578, z: 2.9964495}
     speed: 2
-    m_Value: {x: -0.34689522, y: 4.152009, z: -1.6776431}
+    m_Value: {x: -0.7017505, y: 5.035578, z: 2.9964495}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -602,13 +602,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.12546222, y: -0.67365485, z: 0.11759378, w: 0.7187895}
+    m_Target: {x: 0.02087704, y: 0.93474567, z: -0.35056356, w: 0.055267185}
     speed: 2
-    m_Value: {x: 0.1254598, y: -0.6736419, z: 0.11759152, w: 0.71877575}
+    m_Value: {x: 0.020875636, y: 0.93468285, z: -0.35053998, w: 0.05526347}
   m_Size:
-    m_Target: 6.811532
+    m_Target: 10.946013
     speed: 2
-    m_Value: 6.811532
+    m_Value: 10.946013
   m_Ortho:
     m_Target: 0
     speed: 2
