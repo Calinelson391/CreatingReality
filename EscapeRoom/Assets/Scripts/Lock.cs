@@ -23,5 +23,9 @@ public class Lock : MonoBehaviour {
             Destroy(collision.gameObject);
             Destroy(this.gameObject);
         }
+        if(collision.gameObject.GetComponent<WrongKey>() != null)
+        {
+            Destroy(collision.gameObject);
+        }
     }
 }
