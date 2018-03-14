@@ -5,8 +5,9 @@ using Valve.VR.InteractionSystem;
 
 
 public class Lock : MonoBehaviour {
-    
 
+    [SerializeField]
+    private Door doorObj;
     // Use this for initialization
     void Start () {
 		
@@ -23,10 +24,12 @@ public class Lock : MonoBehaviour {
         GameObject handParent= collision.gameObject.transform.parent.gameObject;
         handParent.GetComponent<Hand>().DetachObject(collision.gameObject);
         handParent.GetComponent<Hand>().HoverUnlock(null);
-        
+        handParent.transform.GetChild(1).gameObject.SetActive(true);
+
         if (collision.gameObject.GetComponent<Key>() != null)
         {
             print("collission with key");
+            doorObj.locks--;
             Destroy(collision.gameObject);
             Destroy(this.gameObject);
         }
@@ -34,7 +37,6 @@ public class Lock : MonoBehaviour {
         {
             Destroy(collision.gameObject);
         }
-
-        handParent.transform.GetChild(1).gameObject.SetActive(true);
+        
     }
 }
