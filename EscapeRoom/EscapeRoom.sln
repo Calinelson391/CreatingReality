@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeRoom", "EscapeRoom.csproj", "{4B5D7817-EE43-A6C8-BE53-41C2AFE4C3EF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeRoom.Editor", "EscapeRoom.Editor.csproj", "{B21C2563-C689-5E8C-C5C4-51F0D2D53C36}"
